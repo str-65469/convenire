@@ -1,0 +1,17 @@
+//  ================================================================================================
+//  ? TIP:  It is recommended to use this file for overriding component variables.
+//  ================================================================================================
+
+.swal2-confirm {
+	margin-right: 1.8rem;
+}
+
+.dark-layout .swal2-popup {
+	background: #283046;
+}
+
+//! list group item button feature would break
+// .dark-layout .list-group-item:active,
+// .dark-layout .list-group-item:hover {
+// 	background-color: #283046 !important;
+// }
